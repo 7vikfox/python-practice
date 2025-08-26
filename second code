@@ -1,0 +1,7 @@
+def hello():
+    return "Hello, World!"
+
+# Call the function
+message = hello()   # message now holds the string "Hello, World!"
+
+print(message)      # prints Hello, World!
