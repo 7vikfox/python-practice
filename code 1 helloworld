@@ -1,2 +1,9 @@
 # My First Code
 print("Hello, World!")
+
+# To give line between sentence
+print("""hello world
+         this is my new lesson""")
+
+# another method
+print("hello world \nthis is my new lesson")
