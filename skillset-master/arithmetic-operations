@@ -1,0 +1,26 @@
+#print the value of c
+a = 5
+b = 3
+c = a+b
+print(c)
+
+#print the value of a , b , c
+a = 5
+b = 3
+c = a+b
+print(a)
+print(b)
+print(c)
+
+#print all kind of operations
+a = 5
+b = 3
+c = a+b
+a*b, a-b, a/b, a+b
+
+#store value into different items
+a = 5
+b = 3
+c = a+b
+a1, b1, c1, d1 = a*b, a-b, a/b, a+b
+print(a1, b1, c1, d1)
