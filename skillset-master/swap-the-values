@@ -1,0 +1,21 @@
+a=1
+b=2
+a=b
+print(a)
+# swap the values
+
+# SOLUTION:1
+
+a=1
+b=2
+c=a      #c=1
+a=b      #a=2
+b=c      #b=1
+#print(a)
+print(a,b)
+
+# SOLUTION:2
+a=1
+b=2
+c,d=b,a
+print(a,d)
