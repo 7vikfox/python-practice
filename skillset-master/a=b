@@ -1,0 +1,5 @@
+a=1
+b=2
+a=b
+print(a)
+#answer will be 2 bcoz a took value of b
