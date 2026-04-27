@@ -62,7 +62,7 @@ python main.py
 I’m always open to learning from others and sharing knowledge.
 If you have suggestions, tips, or cool project ideas, feel free to open an issue or drop me a message!
 
-
+## LINK : https://7vikfox.github.io/learning-hub/projects.html
 
 ⭐️ *This is just the beginning of my Python journey — more projects coming soon!*
 
